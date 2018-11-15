@@ -1,7 +1,7 @@
 #----------------------------------------
 #		author: Paolo Calao			
 #		mail:	paolo.calao@gmail.com
-#		title:	comparison_script.tcl
+#		title:	low_power_plugin.tcl
 #----------------------------------------
 
 proc dualVth {args} {
